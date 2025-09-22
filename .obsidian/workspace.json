@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "944b0eb7678c1eae",
+    "type": "split",
+    "children": [
+      {
+        "id": "9978867578cc1f55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb7a5367ae67e564",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Project Guidelines for Students.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Project Guidelines for Students"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4d4c2b2f40e117d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5d704629e56f5f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a9ab51033246100",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8431f7845824110f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "253aa2ef741d9219",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9d993113c2ce8d08",
+    "type": "split",
+    "children": [
+      {
+        "id": "c473ed0670a58392",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18d429ae20d12035",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Design/Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "87aac8334e99823d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Design/Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "e9e2cf82e125cae4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0c353a8ae8ce4892",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Design/Untitled.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "fb7a5367ae67e564",
+  "lastOpenFiles": [
+    "Project Guidelines.md",
+    "Project Guidelines for Students.pdf",
+    "10. Final Presentation.md",
+    "09. Proposal Presentation.md",
+    "07. Final Documentation.md",
+    "06. User Manual.md",
+    "05. Testing.md",
+    "04. Implementation.md",
+    "03. Software Design Specification.md",
+    "01. Proposal.md",
+    "08. Compiled System.md",
+    "02. Software Requirement Specification.md",
+    "Untitled 1",
+    "Untitled",
+    "Welcome.md",
+    "Design/Untitled.md",
+    "Design"
+  ]
+}
