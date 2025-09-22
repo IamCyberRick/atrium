@@ -10,7 +10,7 @@ The system is designed to make on-boarding and administration in an educational 
 ---
 # Project Guidelines (Reference)
 
-This project follows the official  [Project Guidelines for Students](docs/Project%20Guidelines%20for%20Students.pdf) from the  
+This project follows the official [Project Guidelines for Students](docs/Project%20Guidelines%20for%20Students.pdf) from the  
 **Faculty of Computing and Information Technology, Department of Software Development and Information Systems**, which outline the following  required documents and deliverables:
 
 - [01. Proposal](docs/01.%20Proposal.md)  
