@@ -4,7 +4,7 @@
 # Distance Learning Institution Information Management System
 
 This project is a single year trimester project developed for the unit **STU 3101: Project** , in partial fulfillment of the requirements for the completion of the **Bachelor of Science in Information Technology** course undertaken in the September- December trimester  2025.
-The project is undertaken under in consultation, under supervision and with assistance from Senior Lecturer Dr. Paul Abuonji — PhD(IT Sec), MSc.(IT Sec),MBA, BSc.(CS
+The project is undertaken in consultation, under supervision and with assistance from Senior Lecturer **Dr. Paul Abuonji — PhD(IT Sec), MSc.(IT Sec),MBA, BSc.(CS)**
 
 The system is designed to make on-boarding and administration in an educational institution, that intends to setup a dedicated distance learning school, fully online-based and as automated as possible.  
 
