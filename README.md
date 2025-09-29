@@ -1,5 +1,5 @@
 # Atrium Project
-
+===
 # Distance Learning Institution Information Management System
 
 This project is a single year trimester project developed for the unit **STU 3101: Project** , in partial fulfillment of the requirements for the completion of the **Bachelor of Science in Information Technology** course undertaken in the September- December trimester  2025.
